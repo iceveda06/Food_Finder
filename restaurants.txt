@@ -1,2 +1,3 @@
-Starbucks	American	$4.99
-chipotle	Mexican	$13.99
+Starbucks	American	4.99
+chipotle	Mexican	13.99
+pita pocket	fast food	6.99
