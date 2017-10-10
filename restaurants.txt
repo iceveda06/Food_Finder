@@ -1,1 +1,2 @@
 Starbucks	American	$4.99
+chipotle	Mexican	$13.99
